@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2080752600",
+    "hash" : "4232435536",
     "id" : "F034234A",
-    "lastKnownWriteTime" : 1563571066,
-    "last_content_update" : 1563571066,
-    "path" : "~/GitHub/maximillianpleason.github.io/1-example.Rmd",
-    "project_path" : "1-example.Rmd",
+    "lastKnownWriteTime" : 1563575216,
+    "last_content_update" : 1563575216530,
+    "path" : "~/GitHub/maximillianpleason.github.io/_site/about.html",
+    "project_path" : "_site/about.html",
     "properties" : {
+        "cursorPosition" : "1,16",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
@@ -19,5 +21,5 @@
     "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "r_markdown"
+    "type" : "html"
 }

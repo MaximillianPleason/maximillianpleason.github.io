@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563571615268.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2080752600",
+    "id" : "F034234A",
+    "lastKnownWriteTime" : 1563571066,
+    "last_content_update" : 1563571066,
+    "path" : "~/GitHub/maximillianpleason.github.io/1-example.Rmd",
+    "project_path" : "1-example.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

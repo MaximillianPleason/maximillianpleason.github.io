@@ -3,8 +3,8 @@ navbar:
   title: "My Website"
   left:
     - text: "Home"
-      href: index.html
+      href: index.md
     - text: "Viridis Colors"
-      href: 1-example.html
+      href: 1-example.md
     - text: "Terrain Colors"
-      href: 3-inline.html
+      href: 3-inline.md

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample Post
+title: Sample Post V2
 description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2016-12-02
+modified: 2019-22-07
 tags: [sample post]
 categories: [intro]
 image:

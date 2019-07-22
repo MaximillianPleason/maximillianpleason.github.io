@@ -15,13 +15,13 @@ Here is my first blog
 
 If you want to show just a part of your post in the come page, add the ``<!-- more -->`` tag to your post content. Everything after this tag will be hidden from the page listing page.
 
-`<!--more-->`
+<!--more-->
 
-This should be hidden
+This should be hidden unless on post page
 
-Maybe this will be hidden
+Maybe this will be hidden unless on post page
 
-This should definetly be hidden
+This should definetly be hidden unless on post page
 
 
 

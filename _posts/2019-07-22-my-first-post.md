@@ -17,39 +17,6 @@ If you want to show just a part of your post in the come page, add the ``<!-- mo
 
 <!--more-->
 
-This should be hidden unless on post page
+Lorem ipsum dolor sit amet, vis veniam alterum et. Nam ea congue vocibus torquatos. Nam no cibo blandit. Ne utinam nostrud nam. Assueverit scriptorem mel ex.
 
-Maybe this will be hidden unless on post page
-
-This should definetly be hidden unless on post page
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-? hello?
+Reque noluisse nominati eos no, nisl oportere scripserit eum cu. Eu habeo iusto zril ius. Nam te ceteros senserit, vim cu odio harum instructior. Sea ut nullam adolescens. Nisl legendos reformidans eum no, veri insolens et sed, vis at reque blandit. Pro ad oblique numquam postulant.

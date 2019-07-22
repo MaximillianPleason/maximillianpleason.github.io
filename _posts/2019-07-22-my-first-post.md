@@ -3,7 +3,7 @@ layout: post
 title: My first post!
 description: "I dont think this does anything"
 modified: 2019-22-07
-tags: [dumb stuff]
+tags: [dumb stuff, <!--more-->]
 categories: [blog]
 ---
 

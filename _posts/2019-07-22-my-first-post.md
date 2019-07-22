@@ -18,3 +18,7 @@ If you want to show just a part of your post in the come page, add the ``<!-- mo
 <!-- more -->
 
 This should be hidden
+
+Maybe this will be hidden
+
+This should definetly be hidden

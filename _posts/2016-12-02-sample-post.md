@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sample Post V2
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more. TEST"
 modified: 2019-22-07
 tags: [sample post]
 categories: [intro]
@@ -11,7 +11,7 @@ image:
     creditlink: http://www.dargadgetz.com/ios-8-abstract-wallpaper-pack-for-iphone-5s-5c-and-ipod-touch-retina/
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs. TEST2.
 
 # Heading 1
 

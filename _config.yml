@@ -58,9 +58,9 @@ social:
   - title: "github"
     url: "https://github.com/maximillianpleason"
   - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
+    url: "https://br.linkedin.com/in/maximillian-pleason-508883183"
   - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+    url: "https://www.youtube.com/channel/UCilsiHsjcUuDtydcLKc1uRg"
 
 # Background image to be tiled on all pages
 background:
@@ -72,7 +72,7 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Chicago
 locale:      en_US
 future:      true
 highlighter: rouge

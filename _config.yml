@@ -23,7 +23,7 @@ menu:
   - title: 'Fork'
     url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
   - title: 'About Me'
-    url: 'http://maximillianpleason.github.io/about'
+    url: '/about'
   - title: 'Tags'
     url: '/tags'
   - title: 'Categories'

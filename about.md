@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me:
+title: "About Me:"
 image:
   background: background-1.png
 share: true

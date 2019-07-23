@@ -18,8 +18,6 @@ url: https://maximillianpleason.github.io/
 #   To create sub categories. add a submenu item
 # See the example
 menu:
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
   - title: 'About Me'
     url: '/about'
   - title: 'Tags'

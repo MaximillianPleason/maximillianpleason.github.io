@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first post!
+title: "My first post!"
 description: "I dont think this does anything"
 modified: 2019-22-07
 tags: [test]

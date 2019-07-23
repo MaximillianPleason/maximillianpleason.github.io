@@ -59,7 +59,7 @@ social:
     url: "https://www.youtube.com/channel/UCilsiHsjcUuDtydcLKc1uRg"
 
 # Background image to be tiled on all pages
-background: "/images/background-1.png"
+background: background-1.png
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:

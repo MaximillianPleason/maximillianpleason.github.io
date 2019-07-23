@@ -15,7 +15,8 @@ share: true
 ## Contact Information
 
 email: mpleason@utexas.edu
-Alt email: mpleason@sbcglobal.net
+
+alt email: mpleason@sbcglobal.net
 
 ## Educational Background
 

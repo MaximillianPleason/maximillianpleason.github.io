@@ -31,7 +31,7 @@ menu:
     url: '#'
     submenu:
       - title: 'My first post'
-        url: '/my-first-post/'
+        url: '/blogs/my-first-post/'
 
 # Owner/author information
 owner:

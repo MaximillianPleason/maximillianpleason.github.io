@@ -9,7 +9,8 @@ share: true
 # Hello! My name is Maximillian Pleason.
 
 <figure class="half center">
-  <img src="/images/profile.jpg" alt="">
+  <img src="/images/profile.jpg" alt=""></a>
+  <figcaption>A picture of myself</a>.<figcaption>
 <figure>
 
 # A special thanks to:

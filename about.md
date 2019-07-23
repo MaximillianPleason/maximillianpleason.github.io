@@ -2,7 +2,7 @@
 layout: page
 title: About Me:
 image:
-  background: abstract-2
+  background: abstract-2.jpg
 share: true
 ---
 
